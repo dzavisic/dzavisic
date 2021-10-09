@@ -5,4 +5,4 @@
 <br>
 >>> Name: <i>Dario Zavišić</i>;<br><br>
 >>> Tools: <i>Angular, Ionic, Firebase, new Flutter</i>;<br><br>
->>> Degree: <i>bacc. math. et comp.</i>
+>>> Degree: <i>univ. bacc. math. et comp.</i>
