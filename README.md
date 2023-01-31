@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dario</h1>
+<h1 align="center"><img align="center" alt="analyzee" width="80" height="40" src="https://cdn.analyzee.io/logo.svg"> Hi 👋, I'm Dario</h1>
 
 <h5 align="left">Degree: <i>univ. bacc. math. et comp.</i></h5> 
 
