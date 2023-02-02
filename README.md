@@ -38,6 +38,9 @@
  <a href="https://stenciljs.com" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/15596/273137/icon/pluginIcon.svg" alt="stenciljs" width="40" height="40"/>
  </a>
 </p>
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=zavovkci&rank=-B,-C&column=3&margin-w=15&margin-h=15">
+<br><br><br><br><br>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
