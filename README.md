@@ -40,7 +40,7 @@
 </p>
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=zavovkci&rank=-B,-C&column=3&margin-w=15&margin-h=15">
-<br><br><br><br><br>
+<br><br><br><br><br><br>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
