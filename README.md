@@ -45,6 +45,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/dario-zavisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d" height="30" width="40" /></a></p>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=zavovkci&rank=-B,-C">
-
 ![](https://hit.yhype.me/github/profile?user_id=43092397)
