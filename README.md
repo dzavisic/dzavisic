@@ -1,8 +1,10 @@
 <h1 align="center"><img align="center" alt="analyzee" width="80" height="40" src="https://cdn.analyzee.io/logo.svg"> Hi 👋, I'm Dario</h1>
 
-<h5 align="left">Degree: <i>univ. bacc. math. et comp.</i></h5> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zavovkci&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr" />
+<img align="left" src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=420&height=45&lines=Name:+Dario+Zavisic;Degree:+univ.+bacc.+math.+et+comp.;Location:+Osijek,+Croatia;Company:+Analyzee;Position:+COO&color=f59620" />
+<br>
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zavovkci&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
