@@ -1,7 +1,7 @@
 <h1 align="center"><img align="center" alt="analyzee" width="80" height="40" src="https://cdn.analyzee.io/logo.svg"> Hi 👋, I'm Dario</h1>
 
 
-<img align="left" src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=420&height=45&lines=Name:+Dario+Zavisic;Degree:+univ.+bacc.+math.+et+comp.;Location:+Osijek,+Croatia;Company:+Analyzee;Position:+Co-Founder+and+COO&color=f59620" />
+<img align="left" src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=420&height=45&lines=Name:+Dario+Zavisic;Degree:+univ.+bacc.+math.+et+comp.;Location:+Osijek,+Croatia;Company:+Analyzee;Position:+Co-Founder+and+CTO&color=f59620" />
 <br>
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dzavisic&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D" />
