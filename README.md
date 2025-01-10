@@ -1,50 +1,37 @@
-<h1 align="center"><img align="center" alt="analyzee" width="80" height="40" src="https://cdn.analyzee.io/logo.svg"> Hi 👋, I'm Dario</h1>
+<h3 align="center"><img align="center" alt="analyzee" width="50" height="25" src="https://cdn.analyzee.io/logo.svg"> Hi 👋, I'm Dario</h3>
 
+## About Me
+<img align="left" src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=420&height=30&lines=Name:+Dario+Zavisic;Degree:+univ.+bacc.+math.+et+comp.;Location:+Osijek,+Croatia;Company:+Analyzee;Position:+Co-Founder+and+CTO&color=f59620" />
 
-<img align="left" src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=420&height=45&lines=Name:+Dario+Zavisic;Degree:+univ.+bacc.+math.+et+comp.;Location:+Osijek,+Croatia;Company:+Analyzee;Position:+Co-Founder+and+CTO&color=f59620" />
+<br>
 <br>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dzavisic&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+I'm a passionate software developer with a keen interest in building scalable and efficient software solutions. I love exploring new technologies and continuously improving my skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
- </a>
- <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
- </a>
- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
- </a>
- <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
- </a>
- <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
- </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
- </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- </a>
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- </a>
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </a>
- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
- </a>
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
- </a>
- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
- </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
- </a> 
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://stenciljs.com" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/15596/273137/icon/pluginIcon.svg" alt="stenciljs" width="40" height="40"/>
- </a>
-</p>
+- 🧑🏻‍💻 I’m currently working on: Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+- 📫 How to reach me: dzavisic@analyzee.io
 
+## 🛠️ Technologies & Tools
 
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dario-zavisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d" height="30" width="40" /></a></p>
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 📈 GitHub Stats
+
+![dzavisic's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=dzavisic&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D))
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dario-zavisic/)
 
 ![](https://hit.yhype.me/github/profile?user_id=43092397)
