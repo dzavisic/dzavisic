@@ -26,10 +26,6 @@ I'm a passionate software developer with a keen interest in building scalable an
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
-
-![dzavisic's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=dzavisic&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D))
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dario-zavisic/)
