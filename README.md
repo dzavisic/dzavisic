@@ -1,7 +1,7 @@
-<h3 align="center"><img align="center" alt="analyzee" width="50" height="25" src="https://cdn.analyzee.io/logo.svg"> Hi 👋, I'm Dario</h3>
+<h3 align="center">Hi 👋, I'm Dario</h3>
 
 ## About Me
-<img align="left" src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=420&height=30&lines=Name:+Dario+Zavisic;Degree:+univ.+bacc.+math.+et+comp.;Location:+Osijek,+Croatia;Company:+Analyzee;Position:+Co-Founder+and+CTO&color=f59620" />
+<img align="left" src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=420&height=30&lines=Name:+Dario+Zavisic;Degree:+univ.+bacc.+math.+et+comp.;Location:+Osijek,+Croatia;&color=f59620" />
 
 <br>
 <br>
